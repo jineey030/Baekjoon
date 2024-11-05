@@ -6,6 +6,7 @@ this is a space where I upload my submissions from Baekjoon!
 
 
 
-Thank you for visiting!
+
+Thank you for visiting😊
 
 🔗 Baekjoon : https://www.acmicpc.net/
