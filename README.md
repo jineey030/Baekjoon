@@ -8,4 +8,4 @@ Thank you for visiting😊
 
 🔗 Baekjoon : https://www.acmicpc.net/
 
-👩‍💻 계정: jineey030, ohyejin0816
+👩‍💻 계정: jineey030, ohyejin030
