@@ -30,7 +30,6 @@ public class Yoseputh {
                 if(i == k-1){
                     if(list.size() == 1){
                         sb.append(list.remove());
-
                     } else {
                         sb.append(list.remove() + ", ");
                     }
