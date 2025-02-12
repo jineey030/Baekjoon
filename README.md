@@ -2,8 +2,9 @@
 
 ### 🛠️ Use Tools
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
+![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+
 
 ### 🔗 My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jineey)](https://velog.io/@jineey/posts?tag=baekjoon)
