@@ -1,9 +1,11 @@
-## Baekjoon Coding Test Practice Arena
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=header&text=jineey's%20Github" />
 
-Welcome to jineey030's Github ✨
+### 🛠️ Use Tools
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
 
-this is a space where I upload my submissions from Baekjoon!
+### 🔗 My Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jineey)](https://velog.io/@jineey/posts?tag=baekjoon)
 
-Thank you for visiting😊
-
-🔗 Baekjoon : https://www.acmicpc.net/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=footer" />
