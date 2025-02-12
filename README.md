@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=header&text=jineey's%20Github✨&fontSize=25&fontColor=ffffff&FontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=header&text=jineey's%20Github✨&fontSize=25&fontColor=ffffff&fontAlignY=20" />
 
 ### 🛠️ Use Tools
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
