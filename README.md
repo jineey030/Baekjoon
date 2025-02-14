@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=header&text=jineey's%20Github✨&fontSize=25&fontColor=ffffff&fontAlignY=30" />
 
 ### 🌱 Baekjoon
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jineey0_0)](https://solved.ac/jineey0_0)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jineey0_0&theme=warm)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jineey030)](https://solved.ac/jineey030)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jineey030&theme=warm)
 
 
 ### 🛠️ Use
