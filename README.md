@@ -13,4 +13,8 @@
 ### 🔗 My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jineey)](https://velog.io/@jineey/posts?tag=baekjoon)
 
+<div align="center">
+  <img src="https://github.com/jineey030/jineey030/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=footer" />
