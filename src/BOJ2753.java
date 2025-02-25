@@ -8,13 +8,15 @@ class BOJ2753 {
         int year = sc.nextInt();
 
         if(year % 4 == 0){
-            if(year % 100 != 0 || year % 400 == 0){
+            if(year % 100 != 0) {
+                System.out.println("1");
+            } else if(year % 400 == 0){
                 System.out.println("1");
             } else {
-                System.err.println("0");
+                System.out.println("0");
             }
         } else {
-            System.err.println("0");
+            System.out.println("0");
         }
     }
 }
